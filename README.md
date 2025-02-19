@@ -1,4 +1,4 @@
-eEnhance the existing **Book Library** application by adding functionality to navigate to an "Add Book" form. This task focuses exclusively on frontend development using **React** and **Vite**.
+Enhance the existing **Book Library** application by adding functionality to navigate to an "Add Book" form. This task focuses exclusively on frontend development using **React** and **Vite**.
 
 ## Provided Components
 
